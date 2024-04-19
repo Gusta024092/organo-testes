@@ -1,5 +1,5 @@
 # organo-testes
-Projeto de QA para testar as funcionalidades do organo website usando testes funcionais automatizados.
+Projeto de QA para testar as funcionalidades do organo website usando testes funcionais automatizados com Robot Framework.
 
 Requisitos para rodar o testes juntamente com o website
 - Python 3 ou superior
